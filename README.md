@@ -1,12 +1,12 @@
 <h1 align="center">🛰️ Proxcy — Free Proxy List</h1>
 
 <p align="center">
-  ![proxies](https://img.shields.io/badge/proxies-1464-brightgreen?style=flat-square)
-  ![google](https://img.shields.io/badge/google-543-blue?style=flat-square)
-  ![http/s](https://img.shields.io/badge/http%2Fs-1374-informational?style=flat-square)
-  ![socks4](https://img.shields.io/badge/socks4-61-informational?style=flat-square)
-  ![socks5](https://img.shields.io/badge/socks5-29-informational?style=flat-square)
-  ![updated](https://img.shields.io/badge/updated-2026--07--02%2002%3A13%20UTC-orange?style=flat-square)
+  <img alt="proxies" src="https://img.shields.io/badge/proxies-1464-brightgreen?style=flat-square">
+  <img alt="google" src="https://img.shields.io/badge/google-543-blue?style=flat-square">
+  <img alt="http/s" src="https://img.shields.io/badge/http%2Fs-1374-informational?style=flat-square">
+  <img alt="socks4" src="https://img.shields.io/badge/socks4-61-informational?style=flat-square">
+  <img alt="socks5" src="https://img.shields.io/badge/socks5-29-informational?style=flat-square">
+  <img alt="updated" src="https://img.shields.io/badge/updated-2026--07--02%2002%3A13%20UTC-orange?style=flat-square">
 </p>
 
 <p align="center">Auto-collected &amp; validated <b>HTTP / SOCKS4 / SOCKS5</b> proxies, refreshed continuously.</p>
