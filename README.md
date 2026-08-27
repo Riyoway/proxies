@@ -1,12 +1,12 @@
 <h1 align="center">🛰️ Proxcy — Free Proxy List</h1>
 
 <p align="center">
-  <img alt="proxies" src="https://img.shields.io/badge/proxies-20255-brightgreen?style=flat-square">
-  <img alt="google" src="https://img.shields.io/badge/google-671-blue?style=flat-square">
-  <img alt="http/s" src="https://img.shields.io/badge/http%2Fs-19403-informational?style=flat-square">
-  <img alt="socks4" src="https://img.shields.io/badge/socks4-382-informational?style=flat-square">
-  <img alt="socks5" src="https://img.shields.io/badge/socks5-470-informational?style=flat-square">
-  <img alt="updated" src="https://img.shields.io/badge/updated-2026--08--26%2008%3A46%20UTC-orange?style=flat-square">
+  <img alt="proxies" src="https://img.shields.io/badge/proxies-21623-brightgreen?style=flat-square">
+  <img alt="google" src="https://img.shields.io/badge/google-846-blue?style=flat-square">
+  <img alt="http/s" src="https://img.shields.io/badge/http%2Fs-20634-informational?style=flat-square">
+  <img alt="socks4" src="https://img.shields.io/badge/socks4-409-informational?style=flat-square">
+  <img alt="socks5" src="https://img.shields.io/badge/socks5-580-informational?style=flat-square">
+  <img alt="updated" src="https://img.shields.io/badge/updated-2026--08--27%2005%3A09%20UTC-orange?style=flat-square">
 </p>
 
 <p align="center">Auto-collected &amp; validated <b>HTTP / SOCKS4 / SOCKS5</b> proxies, refreshed continuously.</p>
@@ -17,12 +17,12 @@
 
 | Protocol | Count | Raw list |
 |:--|--:|:--|
-| 🌐 HTTP / HTTPS | 19403 | [http.txt](http.txt) |
-| 🧦 SOCKS4 | 382 | [socks4.txt](socks4.txt) |
-| 🧦 SOCKS5 | 470 | [socks5.txt](socks5.txt) |
-| **⭐ All** | **20255** | [all.txt](all.txt) |
+| 🌐 HTTP / HTTPS | 20634 | [http.txt](http.txt) |
+| 🧦 SOCKS4 | 409 | [socks4.txt](socks4.txt) |
+| 🧦 SOCKS5 | 580 | [socks5.txt](socks5.txt) |
+| **⭐ All** | **21623** | [all.txt](all.txt) |
 
-> 🕵️ Anonymity — elite `19582` · anonymous `673` · transparent `0`
+> 🕵️ Anonymity — elite `20985` · anonymous `638` · transparent `0`
 
 ### ⚡ Top working proxies
 
@@ -30,32 +30,32 @@
 
 | Proxy | Country | Anonymity | Google | Speed |
 |:--|:--:|:--:|:--:|--:|
-| `13.208.166.217:35510` | <img src="https://flagcdn.com/20x15/jp.png" width="20" height="15" alt="JP"> JP | elite | ✅ | 67 ms |
-| `56.155.73.215:17364` | <img src="https://flagcdn.com/20x15/jp.png" width="20" height="15" alt="JP"> JP | elite | ✅ | 67 ms |
-| `43.206.240.252:28683` | <img src="https://flagcdn.com/20x15/jp.png" width="20" height="15" alt="JP"> JP | elite | ✅ | 72 ms |
-| `43.206.240.252:14935` | <img src="https://flagcdn.com/20x15/jp.png" width="20" height="15" alt="JP"> JP | elite | ✅ | 73 ms |
-| `35.78.252.142:30619` | <img src="https://flagcdn.com/20x15/jp.png" width="20" height="15" alt="JP"> JP | elite | ✅ | 75 ms |
+| `15.152.75.215:41551` | <img src="https://flagcdn.com/20x15/jp.png" width="20" height="15" alt="JP"> JP | elite | ✅ | 42 ms |
+| `43.207.132.28:26507` | <img src="https://flagcdn.com/20x15/jp.png" width="20" height="15" alt="JP"> JP | elite | ✅ | 45 ms |
+| `56.155.73.215:56981` | <img src="https://flagcdn.com/20x15/jp.png" width="20" height="15" alt="JP"> JP | elite | ✅ | 66 ms |
+| `43.206.240.252:5273` | <img src="https://flagcdn.com/20x15/jp.png" width="20" height="15" alt="JP"> JP | elite | ✅ | 71 ms |
+| `43.207.132.28:15020` | <img src="https://flagcdn.com/20x15/jp.png" width="20" height="15" alt="JP"> JP | elite | ✅ | 73 ms |
 
 **🧦 SOCKS4**
 
 | Proxy | Country | Anonymity | Google | Speed |
 |:--|:--:|:--:|:--:|--:|
-| `47.85.37.60:1080` | <img src="https://flagcdn.com/20x15/us.png" width="20" height="15" alt="US"> US | anonymous | ✅ | 551 ms |
-| `193.222.99.32:1080` | <img src="https://flagcdn.com/20x15/de.png" width="20" height="15" alt="DE"> DE | elite | ✅ | 826 ms |
-| `62.133.62.27:1082` | <img src="https://flagcdn.com/20x15/fr.png" width="20" height="15" alt="FR"> FR | elite | ✅ | 879 ms |
-| `49.229.36.170:4153` | <img src="https://flagcdn.com/20x15/th.png" width="20" height="15" alt="TH"> TH | elite | ✅ | 893 ms |
-| `45.63.43.188:50000` | <img src="https://flagcdn.com/20x15/nl.png" width="20" height="15" alt="NL"> NL | elite | ✅ | 909 ms |
+| `50.250.205.21:32100` | <img src="https://flagcdn.com/20x15/us.png" width="20" height="15" alt="US"> US | elite | ✅ | 555 ms |
+| `8.215.25.3:2080` | <img src="https://flagcdn.com/20x15/id.png" width="20" height="15" alt="ID"> ID | elite | ✅ | 664 ms |
+| `171.242.14.54:1080` | <img src="https://flagcdn.com/20x15/vn.png" width="20" height="15" alt="VN"> VN | anonymous | ✅ | 818 ms |
+| `49.0.156.20:32000` | <img src="https://flagcdn.com/20x15/mn.png" width="20" height="15" alt="MN"> MN | anonymous | ✅ | 863 ms |
+| `115.74.155.107:1080` | <img src="https://flagcdn.com/20x15/vn.png" width="20" height="15" alt="VN"> VN | elite | ✅ | 869 ms |
 
 **🧦 SOCKS5**
 
 | Proxy | Country | Anonymity | Google | Speed |
 |:--|:--:|:--:|:--:|--:|
-| `43.164.136.189:1080` | <img src="https://flagcdn.com/20x15/kr.png" width="20" height="15" alt="KR"> KR | elite | ✅ | 593 ms |
-| `58.120.135.195:1080` | <img src="https://flagcdn.com/20x15/kr.png" width="20" height="15" alt="KR"> KR | elite | ✅ | 660 ms |
-| `45.194.33.12:30001` | <img src="https://flagcdn.com/20x15/hk.png" width="20" height="15" alt="HK"> HK | elite | ✅ | 690 ms |
-| `43.165.126.68:10808` | <img src="https://flagcdn.com/20x15/us.png" width="20" height="15" alt="US"> US | elite | ✅ | 732 ms |
-| `147.45.60.136:1082` | <img src="https://flagcdn.com/20x15/us.png" width="20" height="15" alt="US"> US | elite | ✅ | 736 ms |
+| `137.131.12.103:1080` | <img src="https://flagcdn.com/20x15/us.png" width="20" height="15" alt="US"> US | elite | ✅ | 613 ms |
+| `101.36.104.46:10808` | <img src="https://flagcdn.com/20x15/jp.png" width="20" height="15" alt="JP"> JP | elite | ✅ | 619 ms |
+| `45.194.33.12:30002` | <img src="https://flagcdn.com/20x15/hk.png" width="20" height="15" alt="HK"> HK | elite | ✅ | 658 ms |
+| `3.128.83.74:17000` | <img src="https://flagcdn.com/20x15/us.png" width="20" height="15" alt="US"> US | elite | ✅ | 670 ms |
+| `3.129.27.9:17000` | <img src="https://flagcdn.com/20x15/us.png" width="20" height="15" alt="US"> US | elite | ✅ | 679 ms |
 
 ---
 
-<sub>🤖 Generated at 2026-08-26 08:46 UTC · full machine-readable list in <a href="data.json"><code>data.json</code></a> · history in <a href="history.json"><code>history.json</code></a></sub>
+<sub>🤖 Generated at 2026-08-27 05:09 UTC · full machine-readable list in <a href="data.json"><code>data.json</code></a> · history in <a href="history.json"><code>history.json</code></a></sub>
